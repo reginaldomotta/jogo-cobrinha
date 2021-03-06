@@ -1,2 +1,5 @@
-# jogo-cobrinha
-Bootcamp DIO - Web Developer - Recriando o jogo da cobrinha com JavaScript
+# snake-game
+
+Bootcamp DIO Project - Web Developer
+
+Recreating the snake game with JavaScript
